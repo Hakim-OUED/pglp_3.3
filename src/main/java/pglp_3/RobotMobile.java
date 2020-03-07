@@ -8,11 +8,26 @@ package pglp_3;
 
     Robot(){}
 
-    public void tourne(){}
+    public void tourne(Direction direction){
+        this.setDirection(direction);
+    }
     public void avance(){}
+
+     public Direction getDirection() {
+         return direction;
+     }
+
+     public void setDirection(Direction direction) {
+         this.direction = direction;
+     }
 
 }
 
+
+
+
+
+/*
 class RobotStatic extends Robot {
 
      RobotStatic(){}
@@ -21,5 +36,5 @@ class RobotStatic extends Robot {
     public void avance(){
         throw new UnsupportedOperationException();
     }
-
 }
+*/

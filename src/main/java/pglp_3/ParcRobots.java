@@ -8,6 +8,6 @@ public class ParcRobots {
 
     public void avancerTous (){
         tousRobot.stream().forEach(Robot::avance);
-        
+
     }
 }
