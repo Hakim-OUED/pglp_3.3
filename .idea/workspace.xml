@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a53ffe-400a-42ee-9a39-e458c5235a55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pglp/ParcRobots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp_3/Direction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/ParcRobots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp_3/ParcRobots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp_3/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/ParcRobots.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/RobotMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/RobotMobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/RobotStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/RobotStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pglp_3/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/ParcRobots.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pglp_3.3-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pglp_3.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pglp_3.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pglp_3/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +61,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/pglp_3" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -74,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583580880965</updated>
       <workItem from="1583580887233" duration="52000" />
-      <workItem from="1583581004124" duration="6097000" />
+      <workItem from="1583581004124" duration="9719000" />
     </task>
     <servers />
   </component>
@@ -86,30 +105,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583581140045" />
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1583587243676">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1583590017402">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583587243676" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583586899785">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583590017402" />
+    <state x="344" y="279" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583588246513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583586899785" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583586899785">
+    <state x="344" y="279" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1583588246513" />
+    <state x="431" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583587588976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583586899785" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583586899785">
+    <state x="431" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583587588976" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583590958880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583586899785" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583586899785">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583590958880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583586899785" />
-    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583584740238">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583590958880">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583584740238" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583590958880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
+    <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583588157870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1583588157870" />
     <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1583581084561">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
