@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21a53ffe-400a-42ee-9a39-e458c5235a55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pglp/ParcRobots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/Direction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/ParcRobots.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/RobotMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/RobotMobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pglp_3/RobotStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pglp/RobotStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pglp_3/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/ParcRobots.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/Position.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pglp_3/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/pglp_3.3-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pglp_3.AppTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pglp_3.AppTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pglp_3/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583580880965</updated>
       <workItem from="1583580887233" duration="52000" />
-      <workItem from="1583581004124" duration="9719000" />
+      <workItem from="1583581004124" duration="11495000" />
+      <workItem from="1584701026696" duration="715000" />
     </task>
     <servers />
   </component>
@@ -117,22 +96,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="431" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583587588976" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1583590958880">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584705582114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1583590958880">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584705582114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1583590958880">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584705582114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1583590958880">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584705582114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583590958880" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
     <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583588157870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -141,5 +120,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583581084561" />
+    <state x="65" y="58" key="new project wizard" timestamp="1583593474078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="58" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583593474078" />
   </component>
 </project>
