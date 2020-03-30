@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="21a53ffe-400a-42ee-9a39-e458c5235a55" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkstyle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkstyle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,8 @@
       <updated>1583580880965</updated>
       <workItem from="1583580887233" duration="52000" />
       <workItem from="1583581004124" duration="11495000" />
-      <workItem from="1584701026696" duration="715000" />
+      <workItem from="1584701026696" duration="1298000" />
+      <workItem from="1585605632484" duration="102000" />
     </task>
     <servers />
   </component>
@@ -96,22 +98,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="431" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583587588976" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584705582114">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584706121519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584705582114">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584706121519" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584706121519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584705582114">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584706121519" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584706121519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584705582114">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584706121519" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584706121519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584705582114" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584706121519" />
     <state x="499" y="141" key="chooseDestDirectoryDialog" timestamp="1583588157870">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
